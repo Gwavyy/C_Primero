@@ -1,6 +1,0 @@
-cmake-build-*/
-cmakelists-*/
-.idea/
-*.exe
-*.o
-*.obj
