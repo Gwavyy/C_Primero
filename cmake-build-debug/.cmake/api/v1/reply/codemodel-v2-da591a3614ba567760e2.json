@@ -2,11 +2,12 @@
 	"configurations" : 
 	[
 		{
+			"abstractTargets" : [],
 			"directories" : 
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.30"
@@ -39,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UBU_C_PRIMERO::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UBU_C_PRIMERO-Debug-b9a28cddd53e5dfba956.json",
+					"jsonFile" : "target-UBU_C_PRIMERO-Debug-89505d63224e936694d9.json",
 					"name" : "UBU_C_PRIMERO",
 					"projectIndex" : 0
 				}
@@ -49,12 +50,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Usuario/CLionProjects/UBU_C_PRIMERO/cmake-build-debug",
-		"source" : "C:/Users/Usuario/CLionProjects/UBU_C_PRIMERO"
+		"build" : "C:/Users/guill/CLionProjects/C_Primero/cmake-build-debug",
+		"source" : "C:/Users/guill/CLionProjects/C_Primero"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 9
 	}
 }

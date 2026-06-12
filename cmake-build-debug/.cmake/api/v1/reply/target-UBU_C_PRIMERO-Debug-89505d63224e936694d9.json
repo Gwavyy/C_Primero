@@ -27,10 +27,15 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
 	},
 	"compileGroups" : 
 	[
@@ -52,7 +57,11 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -63,10 +72,6 @@
 		[
 			{
 				"fragment" : "-g",
-				"role" : "flags"
-			},
-			{
-				"fragment" : "",
 				"role" : "flags"
 			},
 			{
@@ -89,7 +94,11 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -98,7 +107,31 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.c",
+			"path" : "T3-Funciones/Cuadrado_y_Cubo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "T3-Funciones/Ej1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "T6-Recursividad/Ej6.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "T6-Recursividad/Ej7.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "T6-Recursividad/Ej8.c",
 			"sourceGroupIndex" : 0
 		}
 	],
