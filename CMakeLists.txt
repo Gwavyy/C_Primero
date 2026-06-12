@@ -9,4 +9,8 @@ add_executable(UBU_C_PRIMERO T3-Funciones/Cuadrado_y_Cubo.c
         T6-Recursividad/Ej6.c
         T6-Recursividad/Ej7.c
         T6-Recursividad/Ej7.c
-        T6-Recursividad/Ej8.c)
+        T6-Recursividad/Ej8.c
+        T7-EstructurasDeControl/Ej1.c
+        T7-EstructurasDeControl/Ej2.c
+        T7-EstructurasDeControl/Ej3.c
+        T7-EstructurasDeControl/Ej4.c)

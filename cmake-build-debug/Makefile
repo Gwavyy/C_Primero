@@ -248,6 +248,78 @@ T6-Recursividad/Ej8.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.s
 .PHONY : T6-Recursividad/Ej8.c.s
 
+T7-EstructurasDeControl/Ej1.obj: T7-EstructurasDeControl/Ej1.c.obj
+.PHONY : T7-EstructurasDeControl/Ej1.obj
+
+# target to build an object file
+T7-EstructurasDeControl/Ej1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj
+.PHONY : T7-EstructurasDeControl/Ej1.c.obj
+
+T7-EstructurasDeControl/Ej1.i: T7-EstructurasDeControl/Ej1.c.i
+.PHONY : T7-EstructurasDeControl/Ej1.i
+
+# target to preprocess a source file
+T7-EstructurasDeControl/Ej1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.i
+.PHONY : T7-EstructurasDeControl/Ej1.c.i
+
+T7-EstructurasDeControl/Ej1.s: T7-EstructurasDeControl/Ej1.c.s
+.PHONY : T7-EstructurasDeControl/Ej1.s
+
+# target to generate assembly for a file
+T7-EstructurasDeControl/Ej1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.s
+.PHONY : T7-EstructurasDeControl/Ej1.c.s
+
+T7-EstructurasDeControl/Ej2.obj: T7-EstructurasDeControl/Ej2.c.obj
+.PHONY : T7-EstructurasDeControl/Ej2.obj
+
+# target to build an object file
+T7-EstructurasDeControl/Ej2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj
+.PHONY : T7-EstructurasDeControl/Ej2.c.obj
+
+T7-EstructurasDeControl/Ej2.i: T7-EstructurasDeControl/Ej2.c.i
+.PHONY : T7-EstructurasDeControl/Ej2.i
+
+# target to preprocess a source file
+T7-EstructurasDeControl/Ej2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.i
+.PHONY : T7-EstructurasDeControl/Ej2.c.i
+
+T7-EstructurasDeControl/Ej2.s: T7-EstructurasDeControl/Ej2.c.s
+.PHONY : T7-EstructurasDeControl/Ej2.s
+
+# target to generate assembly for a file
+T7-EstructurasDeControl/Ej2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.s
+.PHONY : T7-EstructurasDeControl/Ej2.c.s
+
+T7-EstructurasDeControl/Ej3.obj: T7-EstructurasDeControl/Ej3.c.obj
+.PHONY : T7-EstructurasDeControl/Ej3.obj
+
+# target to build an object file
+T7-EstructurasDeControl/Ej3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj
+.PHONY : T7-EstructurasDeControl/Ej3.c.obj
+
+T7-EstructurasDeControl/Ej3.i: T7-EstructurasDeControl/Ej3.c.i
+.PHONY : T7-EstructurasDeControl/Ej3.i
+
+# target to preprocess a source file
+T7-EstructurasDeControl/Ej3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.i
+.PHONY : T7-EstructurasDeControl/Ej3.c.i
+
+T7-EstructurasDeControl/Ej3.s: T7-EstructurasDeControl/Ej3.c.s
+.PHONY : T7-EstructurasDeControl/Ej3.s
+
+# target to generate assembly for a file
+T7-EstructurasDeControl/Ej3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UBU_C_PRIMERO.dir\build.make CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.s
+.PHONY : T7-EstructurasDeControl/Ej3.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -272,6 +344,15 @@ help:
 	@echo ... T6-Recursividad/Ej8.obj
 	@echo ... T6-Recursividad/Ej8.i
 	@echo ... T6-Recursividad/Ej8.s
+	@echo ... T7-EstructurasDeControl/Ej1.obj
+	@echo ... T7-EstructurasDeControl/Ej1.i
+	@echo ... T7-EstructurasDeControl/Ej1.s
+	@echo ... T7-EstructurasDeControl/Ej2.obj
+	@echo ... T7-EstructurasDeControl/Ej2.i
+	@echo ... T7-EstructurasDeControl/Ej2.s
+	@echo ... T7-EstructurasDeControl/Ej3.obj
+	@echo ... T7-EstructurasDeControl/Ej3.i
+	@echo ... T7-EstructurasDeControl/Ej3.s
 .PHONY : help
 
 

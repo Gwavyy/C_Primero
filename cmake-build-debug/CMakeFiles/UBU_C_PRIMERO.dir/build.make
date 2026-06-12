@@ -141,13 +141,58 @@ CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\guill\CLionProjects\C_Primero\T6-Recursividad\Ej8.c -o CMakeFiles\UBU_C_PRIMERO.dir\T6-Recursividad\Ej8.c.s
 
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj: CMakeFiles/UBU_C_PRIMERO.dir/flags.make
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj: C:/Users/guill/CLionProjects/C_Primero/T7-EstructurasDeControl/Ej1.c
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj: CMakeFiles/UBU_C_PRIMERO.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\guill\CLionProjects\C_Primero\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj -MF CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej1.c.obj.d -o CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej1.c.obj -c C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej1.c
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej1.c > CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej1.c.i
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej1.c -o CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej1.c.s
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj: CMakeFiles/UBU_C_PRIMERO.dir/flags.make
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj: C:/Users/guill/CLionProjects/C_Primero/T7-EstructurasDeControl/Ej2.c
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj: CMakeFiles/UBU_C_PRIMERO.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\guill\CLionProjects\C_Primero\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj -MF CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej2.c.obj.d -o CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej2.c.obj -c C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej2.c
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej2.c > CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej2.c.i
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej2.c -o CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej2.c.s
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj: CMakeFiles/UBU_C_PRIMERO.dir/flags.make
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj: C:/Users/guill/CLionProjects/C_Primero/T7-EstructurasDeControl/Ej3.c
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj: CMakeFiles/UBU_C_PRIMERO.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\guill\CLionProjects\C_Primero\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj -MF CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej3.c.obj.d -o CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej3.c.obj -c C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej3.c
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej3.c > CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej3.c.i
+
+CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\guill\CLionProjects\C_Primero\T7-EstructurasDeControl\Ej3.c -o CMakeFiles\UBU_C_PRIMERO.dir\T7-EstructurasDeControl\Ej3.c.s
+
 # Object files for target UBU_C_PRIMERO
 UBU_C_PRIMERO_OBJECTS = \
 "CMakeFiles/UBU_C_PRIMERO.dir/T3-Funciones/Cuadrado_y_Cubo.c.obj" \
 "CMakeFiles/UBU_C_PRIMERO.dir/T3-Funciones/Ej1.c.obj" \
 "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej6.c.obj" \
 "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej7.c.obj" \
-"CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.obj"
+"CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.obj" \
+"CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj" \
+"CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj" \
+"CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj"
 
 # External object files for target UBU_C_PRIMERO
 UBU_C_PRIMERO_EXTERNAL_OBJECTS =
@@ -157,11 +202,14 @@ UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T3-Funciones/Ej1.c.obj
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej6.c.obj
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej7.c.obj
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.obj
+UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj
+UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj
+UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/build.make
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/linkLibs.rsp
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/objects1.rsp
 UBU_C_PRIMERO.exe: CMakeFiles/UBU_C_PRIMERO.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\guill\CLionProjects\C_Primero\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable UBU_C_PRIMERO.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\guill\CLionProjects\C_Primero\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable UBU_C_PRIMERO.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\UBU_C_PRIMERO.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

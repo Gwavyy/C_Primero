@@ -13,6 +13,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/guill/CLionProjects/C_Primero/T6-Recursividad/Ej6.c" "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej6.c.obj" "gcc" "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej6.c.obj.d"
   "C:/Users/guill/CLionProjects/C_Primero/T6-Recursividad/Ej7.c" "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej7.c.obj" "gcc" "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej7.c.obj.d"
   "C:/Users/guill/CLionProjects/C_Primero/T6-Recursividad/Ej8.c" "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.obj" "gcc" "CMakeFiles/UBU_C_PRIMERO.dir/T6-Recursividad/Ej8.c.obj.d"
+  "C:/Users/guill/CLionProjects/C_Primero/T7-EstructurasDeControl/Ej1.c" "CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj" "gcc" "CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej1.c.obj.d"
+  "C:/Users/guill/CLionProjects/C_Primero/T7-EstructurasDeControl/Ej2.c" "CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj" "gcc" "CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej2.c.obj.d"
+  "C:/Users/guill/CLionProjects/C_Primero/T7-EstructurasDeControl/Ej3.c" "CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj" "gcc" "CMakeFiles/UBU_C_PRIMERO.dir/T7-EstructurasDeControl/Ej3.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
