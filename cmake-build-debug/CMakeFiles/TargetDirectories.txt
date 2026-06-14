@@ -1,3 +1,0 @@
-C:/Users/guill/CLionProjects/C_Primero/cmake-build-debug/CMakeFiles/UBU_C_PRIMERO.dir
-C:/Users/guill/CLionProjects/C_Primero/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/guill/CLionProjects/C_Primero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
