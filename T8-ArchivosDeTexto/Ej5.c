@@ -16,6 +16,7 @@ int main(){
     int caracteres=0;
     int palabras=0;
     int lineas=0;
+    int dentroPalabra = 0;
     origen = fopen("./T8-ArchivosDeTexto/origen_ej5.txt","r");
     destino = fopen("./T8-ArchivosDeTexto/diccionario.txt","w");
 
@@ -24,20 +25,29 @@ int main(){
     }else {
         c = getc(origen);
         while (c != EOF) {
+            caracteres ++;
+            if (c=='\n') {
+                lineas ++;
+            }
             if (c != ' ' && c != '\n' && c != '\t') {
                 putc(c,destino);
-                caracteres ++;
-                c = getc(origen);
+                if (dentroPalabra == 0) {
+                    palabras++;
+                    dentroPalabra=1;
+                }
+            }else {
+                if (dentroPalabra==1) {
+                    putc('\n',destino);
+                    dentroPalabra=0;
+                }
             }
-            if (c == ' ') {
-                c='\n';
-                putc(c,destino);
-                palabras++;
-                c = getc(origen);
-            }if (c == '\n') {
-                lineas++;
-            }
+            c = getc(origen);
         }
+        fclose(origen);
+        fclose(destino);
     }
+    printf("Numero de caracteres: %d\n",caracteres);
+    printf("Numero de palabras: %d\n",palabras);
+    printf("Numero de lineas: %d\n",lineas);
     return 0;
 }
